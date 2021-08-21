@@ -4,7 +4,7 @@
 
 ### VIDEO WALKTHROUGHS:
 
-For a detailed video explanation with voice-over, click [here]).
+For a detailed video explanation with voice-over, click [https://youtu.be/s_IkivQfR3k]).
 
 ### INSPIRATION 
 
