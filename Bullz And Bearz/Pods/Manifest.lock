@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.2.2)
+  - CDAlertView (0.10.0)
+  - SAConfettiView (0.1.8)
+  - SVProgressHUD (2.2.5)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - CDAlertView
+  - SAConfettiView
+  - SVProgressHUD
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CDAlertView
+    - SAConfettiView
+    - SVProgressHUD
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  CDAlertView: ee6a87c90c4283c8d316d55633db1a6981f1cc51
+  SAConfettiView: c87031a2280659261b730fce3669fb10e73636ee
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 8c2a0b4378662a2c569c3cb0728ecd0d5792898b
+
+COCOAPODS: 1.9.3
