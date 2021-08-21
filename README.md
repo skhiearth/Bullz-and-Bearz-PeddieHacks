@@ -1,16 +1,10 @@
 # Bullz and Bearz
 
-**HackTX 2020 - Finalists**
-
-Code snippets and supporting documentation for the Bullz and Bearz project by The Mistfits for HackTX
-
-API Root: https://bearz-and-bullz.herokuapp.com/
-
-![App Screen 1](https://github.com/simmsss/Bullz-and-Bearz/blob/main/UI%20Elements/Screenshots/1.png?raw=true)
+![App Screen 1](https://github.com/skhiearth/Bullz-and-Bearz-PeddieHacks/blob/main/UI%20Elements/Screenshots/1.png?raw=true)
 
 ### VIDEO WALKTHROUGHS:
 
-For a detailed video explanation with voice-over, click [here](https://www.youtube.com/watch?v=cmA_M69heNs).
+For a detailed video explanation with voice-over, click [here]).
 
 ### INSPIRATION 
 
@@ -23,8 +17,8 @@ Bullz and Bearz does exactly that for you, it serves personalised recommendation
 Instead of predicting a volatile environment like the stock market, the sentiment analysis score is a statistical score that doesn’t give false directions to the users, and rather gives them a statistical comparison between different stocks.
 That makes both our things; Recommendation (Clustering) and Sentiment Analysis subjective instead of giving false objective values.
 
-![App Screen 2](https://github.com/simmsss/Bullz-and-Bearz/blob/main/UI%20Elements/Screenshots/2.png?raw=true)
-![App Screen 3](https://github.com/simmsss/Bullz-and-Bearz/blob/main/UI%20Elements/Screenshots/3.png?raw=true)
+![App Screen 2](https://github.com/skhiearth/Bullz-and-Bearz-PeddieHacks/blob/main/UI%20Elements/Screenshots/2.png?raw=true)
+![App Screen 3](https://github.com/skhiearth/Bullz-and-Bearz-PeddieHacks/blob/main/UI%20Elements/Screenshots/3.png?raw=true)
 
 ### TECHNICAL IMPLEMENTATION
 
@@ -34,25 +28,6 @@ Using Web Scraping, News Analysis and NLTK, we give each stock a subjective sent
 To facilitate user privacy, no data from the user is collected and/or stored by the application.
 The UI elements are built and exported from Sketch. To conform with Apple’s Human Interface Guidelines, the app looks and works just as expected in Dark Mode.
 
-![Technical framework](https://github.com/simmsss/Bullz-and-Bearz/blob/main/UI%20Elements/Technical%20Framework.jpg?raw=true)
-
-### Requirements
-
-#### Hardware
-
-* MacBook, Mac Mini, iMac, Mac Pro or any other variant running macOS 10.15.4 (Catalina) or later.
-* Atleast 4GB of RAM recommended (For running on Simulator)
-* An iPhone or iPad running iOS/iPadOS 14.0 or later. (For running on physical device)
-
-#### Software
-
-* Xcode version 12.0
-* Xcode Command Line Tools
-* CocoaPods
-* Python 3.7+
-
-#### Instructions
-
-Clone the GitHub repo on your local machine. Navigate to the project folder in the terminal and run `pod install` to install dependencies. Open the workspace in Xcode, configure the profiles and hit run for the simulator to load up. 
+![Technical framework](https://github.com/skhiearth/Bullz-and-Bearz-PeddieHacks/blob/main/UI%20Elements/Technical%20Framework.jpg?raw=true)
 
 Made with ❤️ by [Simran](https://simmsss.github.io/) and [Utkarsh](https://skhiearth.github.io/)
