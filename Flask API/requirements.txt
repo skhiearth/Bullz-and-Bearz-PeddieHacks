@@ -1,0 +1,7 @@
+flask
+pandas==0.25.1
+gunicorn
+numpy
+nltk
+bs4
+lxml
