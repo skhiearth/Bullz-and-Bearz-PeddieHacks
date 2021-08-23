@@ -1,5 +1,7 @@
 # Bullz and Bearz
 
+Best FinTech and ECommerce hack at PeddieHacks 2021
+
 ![App Screen 1](https://github.com/skhiearth/Bullz-and-Bearz-PeddieHacks/blob/main/UI%20Elements/Screenshots/1.png?raw=true)
 
 ### VIDEO WALKTHROUGHS:
